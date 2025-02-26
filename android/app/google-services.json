@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "822206320380",
+    "project_id": "social-ly-26d38",
+    "storage_bucket": "social-ly-26d38.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822206320380:android:d1bdf15ba5ad0376bf9179",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlk8rbbjBxSXeemq2_BYFBa9ARMfKlv-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
